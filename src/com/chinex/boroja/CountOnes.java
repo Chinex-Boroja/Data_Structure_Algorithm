@@ -29,6 +29,6 @@ public class CountOnes {
         int n = array.length;
         System.out.println("The number of consecutive 1's is: " + findMaxConsecutiveOnes(array));
         System.out.println("The array is made up of " + n + " elements");
-        System.out.println(g);
+        System.out.println("end of program");
     }
 }

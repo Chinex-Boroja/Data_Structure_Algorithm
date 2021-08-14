@@ -8,8 +8,8 @@ public class GenericsMethod {
     static Integer[] intArray = {1,2,3,4,5};
     static Boolean[] boolArray = {true,false,true,false};
 
-    public static List arrayToList(Object[] array, List<Object> list) {
-        for (Object object : array) {
+    public static <T> List arrayToList(T[] array, List<T> list) {
+        for (T object : array) {
             list.add(object);
         }
         return list;
@@ -17,7 +17,12 @@ public class GenericsMethod {
 
     public static void main(String[] args) {
         List<Character> characterList = arrayToList(charArray, new ArrayList<>());
-        List<Character> boolList = arrayToList(boolArray, new ArrayList<>());
-        List<Character> integerList = arrayToList(intArray, new ArrayList<>());
+        List<Boolean> boolList = arrayToList(boolArray, new ArrayList<>());
+        List<Integer> integerList = arrayToList(intArray, new ArrayList<>());
+
+        System.out.println(integerList.get(0));
+        System.out.println(boolList);
+        System.out.println(characterList);
+        System.out.println(boolList.get(3));
     }
 }
