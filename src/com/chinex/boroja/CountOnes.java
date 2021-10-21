@@ -9,9 +9,9 @@ public class CountOnes {
 
         //if 1 is found, increment currentCount and update results if currentCount becomes more
         for (int i = 0; i < nums.length; i++) {
-            if (nums[i] == 1){
+            if (nums[i] == 1) {
                 currentCount++;
-                if (currentCount > maxCount){
+                if (currentCount > maxCount) {
                     maxCount = currentCount;
                 }
             }
@@ -25,10 +25,12 @@ public class CountOnes {
 
     //Driver Method
     public static void main(String[] args) {
-        int[] array = {1,0,1,1,1,1,1,1,1};
+        int[] array = {1, 0, 1, 1, 1, 1, 1, 1, 1};
         int n = array.length;
         System.out.println("The number of consecutive 1's is: " + findMaxConsecutiveOnes(array));
         System.out.println("The array is made up of " + n + " elements");
         System.out.println("end of program");
+
+        System.out.println("hello chinedu");
     }
 }
