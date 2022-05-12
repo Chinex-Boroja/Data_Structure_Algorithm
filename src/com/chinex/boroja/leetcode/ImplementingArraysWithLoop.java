@@ -1,4 +1,4 @@
-package com.chinex.boroja;
+package com.chinex.boroja.leetcode;
 
 public class ImplementingArraysWithLoop {
 
@@ -23,7 +23,7 @@ public class ImplementingArraysWithLoop {
         //current length of an array
         int length = 0;
         //add 3 items into it
-        for (int i = 0; i < 3; i++) {
+        for (int i = 0; i < 4; i++) {
             array[i] = i * i;
             //Each time we add an element, the length goes up by one
             length++;
