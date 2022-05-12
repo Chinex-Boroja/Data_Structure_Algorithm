@@ -1,4 +1,4 @@
-package com.chinex.boroja;
+package com.chinex.boroja.problems;
 
 // Java program to count maximum consecutive
 // 1's in a binary array.
@@ -8,8 +8,8 @@ public class CountOnes {
         int maxCount = 0; //initialize maxCount
 
         //if 1 is found, increment currentCount and update results if currentCount becomes more
-        for (int i = 0; i < nums.length; i++) {
-            if (nums[i] == 1) {
+        for (int num : nums) {
+            if (num == 1) {
                 currentCount++;
                 if (currentCount > maxCount) {
                     maxCount = currentCount;

@@ -1,0 +1,26 @@
+
+
+-----------WHAT is an Array?-------------
+An Array is a collection of items. The items could be integers, strings, DVDs, games, books—anything really.
+The items are stored in neighboring (contiguous) memory locations. Because they're stored together, checking through
+the entire collection of items is straightforward.
+
+The two most primitive Array operations are writing elements into them, and reading elements from them.
+All other Array operations are built on top of these two primitive operations.
+
+
+------------Array Capacity and Array Length-------
+
+The number of DVDs the box could hold, if it was full, or
+The number of DVDs currently in the box.
+Both answers are correct, and both have very different meanings! It's important to understand the difference between them,
+and use them correctly. We call the first one the capacity of the Array, and the second one the length of the Array.
+
+(https://leetcode.com/explore/featured/card/fun-with-arrays/521/introduction/3236/)
+
+
+------------- Basic Array Operations -----------
+we'll be looking at the three basic operations that are supported by almost every data structure;
+--Insertion,
+--Deletion,
+--Search

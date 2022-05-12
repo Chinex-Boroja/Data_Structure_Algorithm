@@ -6,25 +6,24 @@
   <component name="ChangeListManager">
     <list default="true" id="abd1713d-c92a-43ca-9e67-6314df79102d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/CountOnes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/CountOnes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/DSA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/DSA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/DVD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/DVD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/EvenNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/EvenNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/ImplementDVD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/ImplementDVD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/ImplementingArraysWithLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/ImplementingArraysWithLoop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/analysis/Analysis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/analysis/Analysis.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/analysis/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/analysis/BinarySearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/generics/GenericsExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/generics/GenericsExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/generics/GenericsMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/generics/GenericsMethod.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/generics/Varargs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/generics/Varargs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/generics/inout/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/generics/inout/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/generics/inout/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/generics/inout/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/generics/inout/Generics$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/generics/inout/Generics$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/generics/inout/Generics$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/generics/inout/Generics$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/generics/inout/Generics.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/generics/inout/Generics.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/generics/inout/Mammal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/generics/inout/Mammal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/substitution/SubstitutionPrinciple.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/substitution/SubstitutionPrinciple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/CountOnes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/DSA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/DVD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/EvenNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/ImplementDVD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/ImplementingArraysWithLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/JavaTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/NewTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chinex/boroja/CountOnes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chinex/boroja/problems/CountOnes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chinex/boroja/DVD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chinex/boroja/leetcode/DVD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chinex/boroja/EvenNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chinex/boroja/problems/EvenNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chinex/boroja/ImplementingArraysWithLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chinex/boroja/leetcode/ImplementingArraysWithLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chinex/boroja/JavaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chinex/boroja/tests/JavaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chinex/boroja/NewTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chinex/boroja/tests/NewTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chinex/boroja/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chinex/boroja/tests/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +48,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1vPaaAQGvtBh11Oz89pebCoKRMQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -72,13 +74,13 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.TwoSum">
-    <configuration name="Analysis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.analysis.Analysis" />
+  <component name="RunManager" selected="Application.ImplMap">
+    <configuration name="ImplList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.amigoscode.ImplList" />
       <module name="DSAJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chinex.boroja.analysis.*" />
+          <option name="PATTERN" value="com.chinex.boroja.amigoscode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DSA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.DSA" />
+    <configuration name="ImplMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.amigoscode.ImplMap" />
       <module name="DSAJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chinex.boroja.*" />
+          <option name="PATTERN" value="com.chinex.boroja.amigoscode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OneSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.analysis.OneSum" />
+    <configuration name="ImplQueues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.amigoscode.ImplQueues" />
       <module name="DSAJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chinex.boroja.analysis.*" />
+          <option name="PATTERN" value="com.chinex.boroja.amigoscode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreeSums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.analysis.ThreeSums" />
+    <configuration name="ImplSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.amigoscode.ImplSet" />
       <module name="DSAJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chinex.boroja.analysis.*" />
+          <option name="PATTERN" value="com.chinex.boroja.amigoscode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.analysis.TwoSum" />
+    <configuration name="ImplStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.amigoscode.ImplStack" />
       <module name="DSAJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chinex.boroja.analysis.*" />
+          <option name="PATTERN" value="com.chinex.boroja.amigoscode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,19 +141,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Analysis" />
-      <item itemvalue="Application.DSA" />
-      <item itemvalue="Application.ThreeSums" />
-      <item itemvalue="Application.OneSum" />
-      <item itemvalue="Application.TwoSum" />
+      <item itemvalue="Application.ImplList" />
+      <item itemvalue="Application.ImplStack" />
+      <item itemvalue="Application.ImplQueues" />
+      <item itemvalue="Application.ImplSet" />
+      <item itemvalue="Application.ImplMap" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TwoSum" />
-        <item itemvalue="Application.OneSum" />
-        <item itemvalue="Application.ThreeSums" />
-        <item itemvalue="Application.DSA" />
-        <item itemvalue="Application.Analysis" />
+        <item itemvalue="Application.ImplMap" />
+        <item itemvalue="Application.ImplSet" />
+        <item itemvalue="Application.ImplQueues" />
+        <item itemvalue="Application.ImplStack" />
+        <item itemvalue="Application.ImplList" />
       </list>
     </recent_temporary>
   </component>
@@ -181,6 +183,16 @@
       <workItem from="1635412719147" duration="30000" />
       <workItem from="1635839204237" duration="149000" />
       <workItem from="1635851684049" duration="6253000" />
+      <workItem from="1651838566784" duration="5819000" />
+      <workItem from="1651849609819" duration="167000" />
+      <workItem from="1651850743019" duration="5501000" />
+      <workItem from="1651915399022" duration="2024000" />
+      <workItem from="1652180581538" duration="3692000" />
+      <workItem from="1652191422587" duration="1950000" />
+      <workItem from="1652204556160" duration="4256000" />
+      <workItem from="1652212634286" duration="2999000" />
+      <workItem from="1652249161477" duration="5808000" />
+      <workItem from="1652346789058" duration="17424000" />
     </task>
     <servers />
   </component>
@@ -197,7 +209,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
