@@ -1,4 +1,4 @@
-package com.chinex.boroja;
+package com.chinex.boroja.tests;
 
 public class Test {
 /*
