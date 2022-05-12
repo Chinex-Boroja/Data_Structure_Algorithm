@@ -1,4 +1,4 @@
-package com.chinex.boroja;
+package com.chinex.boroja.tests;
 
 import java.util.ArrayList;
 import java.util.List;
