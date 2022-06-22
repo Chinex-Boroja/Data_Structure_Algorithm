@@ -5,25 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="abd1713d-c92a-43ca-9e67-6314df79102d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/CountOnes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/DSA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/DVD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/EvenNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/ImplementDVD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/ImplementingArraysWithLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/JavaTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/NewTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chinex/boroja/CountOnes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chinex/boroja/problems/CountOnes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chinex/boroja/DVD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chinex/boroja/leetcode/DVD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chinex/boroja/EvenNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chinex/boroja/problems/EvenNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chinex/boroja/ImplementingArraysWithLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chinex/boroja/leetcode/ImplementingArraysWithLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chinex/boroja/JavaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chinex/boroja/tests/JavaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chinex/boroja/NewTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chinex/boroja/tests/NewTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chinex/boroja/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chinex/boroja/tests/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,13 +56,13 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.ImplMap">
-    <configuration name="ImplList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.amigoscode.ImplList" />
+  <component name="RunManager" selected="Application.PrintEachCharacter">
+    <configuration name="Hack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.Hack" />
       <module name="DSAJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chinex.boroja.amigoscode.*" />
+          <option name="PATTERN" value="com.chinex.boroja.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ImplStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.amigoscode.ImplStack" />
+    <configuration name="PrintEachCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.pluralsight.PrintEachCharacter" />
       <module name="DSAJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chinex.boroja.amigoscode.*" />
+          <option name="PATTERN" value="com.chinex.boroja.pluralsight.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,19 +123,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ImplList" />
-      <item itemvalue="Application.ImplStack" />
       <item itemvalue="Application.ImplQueues" />
       <item itemvalue="Application.ImplSet" />
       <item itemvalue="Application.ImplMap" />
+      <item itemvalue="Application.Hack" />
+      <item itemvalue="Application.PrintEachCharacter" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrintEachCharacter" />
+        <item itemvalue="Application.Hack" />
         <item itemvalue="Application.ImplMap" />
         <item itemvalue="Application.ImplSet" />
         <item itemvalue="Application.ImplQueues" />
-        <item itemvalue="Application.ImplStack" />
-        <item itemvalue="Application.ImplList" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +174,10 @@
       <workItem from="1652204556160" duration="4256000" />
       <workItem from="1652212634286" duration="2999000" />
       <workItem from="1652249161477" duration="5808000" />
-      <workItem from="1652346789058" duration="17424000" />
+      <workItem from="1652346789058" duration="18739000" />
+      <workItem from="1654347959570" duration="1864000" />
+      <workItem from="1655843360867" duration="1799000" />
+      <workItem from="1655885951470" duration="627000" />
     </task>
     <servers />
   </component>
