@@ -39,11 +39,11 @@ public class TwoSomeSolution {
     }
 
     public static void main(String[] args) {
-        int[] indices = twoSumBrute(new int[]{2, 7, 11, 15, 8}, 10);
-        if (indices.length == 2 ) {
-            int[] index = new int[]{indices[0] + indices[1]};
-            System.out.println(Arrays.toString(index));
-        }
-//        System.out.println(Arrays.toString(twoSumBrute(new int[]{2, 7, 11, 15, 8}, 10)));
+//        int[] indices = twoSum(new int[]{3, 2, 4}, 6);
+//        if (indices.length == 2 ) {
+//            int[] index = new int[]{indices[0] + indices[1]};
+//            System.out.println(Arrays.toString(index));
+//        }
+        System.out.println(Arrays.toString(twoSum(new int[]{2,7,11,15}, 13)));
     }
 }

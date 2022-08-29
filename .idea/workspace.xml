@@ -6,9 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="abd1713d-c92a-43ca-9e67-6314df79102d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/Hack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/Hack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chinex/boroja/Hack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chinex/boroja/Hack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chinex/boroja/programiz/arrays/CopyContent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chinex/boroja/programiz/arrays/CopyContent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/leetcode/twosum/TwoSomeSolution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/leetcode/twosum/TwoSomeSolution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chinex/boroja/leetcode/twosum/TwoSomeSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chinex/boroja/leetcode/twosum/TwoSomeSolution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +32,18 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/com/chinex/boroja/amigoscode/ArrayImpl.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/chinex/boroja/amigoscode/Diamond.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/chinex/boroja/amigoscode/Impl2D.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/chinex/boroja/leetcode/twosum/TwoSomeSolution.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/chinex/boroja/linkedlist/createlinkedlist/Node.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/chinex/boroja/linkedlist/moshlinkedlist/LinkedList.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/chinex/boroja/pluralsight/PrintEachCharacter.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/chinex/boroja/programiz/arrays/ArrayCopy.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/chinex/boroja/programiz/arrays/TwoDArrays.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/chinex/boroja/programiz/stacks/StackImpl.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -42,18 +53,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Chinex_Boroja/IdeaProjects/Data_Structure_Algorithm&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Chinex_Boroja/IdeaProjects/Data_Structure_Algorithm",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
-  <component name="RunManager" selected="Application.Hack">
-    <configuration name="AnalyzeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.programiz.arrays.AnalyzeNumbers" />
+}]]></component>
+  <component name="RunManager" selected="Application.StackImpl">
+    <configuration name="ArrayCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.programiz.arrays.ArrayCopy" />
       <module name="DSAJava" />
       <extension name="coverage">
         <pattern>
@@ -65,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CopyContent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.programiz.arrays.CopyContent" />
+    <configuration name="ArraysClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.programiz.arrays.ArraysClass" />
       <module name="DSAJava" />
       <extension name="coverage">
         <pattern>
@@ -78,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.Hack" />
+    <configuration name="StackImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.programiz.stacks.StackImpl" />
       <module name="DSAJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chinex.boroja.*" />
+          <option name="PATTERN" value="com.chinex.boroja.programiz.stacks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.programiz.arrays.LinearSearch" />
+    <configuration name="TwoDArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.programiz.arrays.TwoDArrays" />
       <module name="DSAJava" />
       <extension name="coverage">
         <pattern>
@@ -104,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.programiz.arrays.Reversal" />
+    <configuration name="TwoSomeSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.leetcode.twosum.TwoSomeSolution" />
       <module name="DSAJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chinex.boroja.programiz.arrays.*" />
+          <option name="PATTERN" value="com.chinex.boroja.leetcode.twosum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,19 +130,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.AnalyzeNumbers" />
-      <item itemvalue="Application.CopyContent" />
-      <item itemvalue="Application.LinearSearch" />
-      <item itemvalue="Application.Reversal" />
-      <item itemvalue="Application.Hack" />
+      <item itemvalue="Application.StackImpl" />
+      <item itemvalue="Application.ArrayCopy" />
+      <item itemvalue="Application.ArraysClass" />
+      <item itemvalue="Application.TwoDArrays" />
+      <item itemvalue="Application.TwoSomeSolution" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Hack" />
-        <item itemvalue="Application.LinearSearch" />
-        <item itemvalue="Application.Reversal" />
-        <item itemvalue="Application.CopyContent" />
-        <item itemvalue="Application.AnalyzeNumbers" />
+        <item itemvalue="Application.StackImpl" />
+        <item itemvalue="Application.ArrayCopy" />
+        <item itemvalue="Application.TwoDArrays" />
+        <item itemvalue="Application.TwoSomeSolution" />
+        <item itemvalue="Application.ArraysClass" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +189,11 @@
       <workItem from="1660716979842" duration="7626000" />
       <workItem from="1660736421315" duration="33000" />
       <workItem from="1660846989990" duration="1529000" />
-      <workItem from="1661287013807" duration="29296000" />
+      <workItem from="1661287013807" duration="30883000" />
+      <workItem from="1661417036358" duration="12731000" />
+      <workItem from="1661519068152" duration="615000" />
+      <workItem from="1661586285115" duration="8438000" />
+      <workItem from="1661762279141" duration="5249000" />
     </task>
     <servers />
   </component>
