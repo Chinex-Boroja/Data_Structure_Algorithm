@@ -1,8 +1,6 @@
 package com.chinex.boroja.programiz.set;
 
-import java.util.HashSet;
-import java.util.Set;
-import java.util.TreeSet;
+import java.util.*;
 
 public class TestTreeSet {
     public static void main(String[] args) {
@@ -39,6 +37,19 @@ public class TestTreeSet {
         System.out.println("pollLast(): " + treeSet.pollLast());
         System.out.println("New tree set: " + treeSet);
 
+        //Introducing ordering in the set
+        Set<String> set1 = new LinkedHashSet<>();
 
+        //Add strings to the set
+        set1.add("London");
+        set1.add("Ile-Ife");
+        set1.add("San Francesco");
+        set1.add("Nairaland");
+        set1.add("Aba");
+
+        System.out.println("Element in set " + set1);
+        for (String element: set1) {
+            System.out.print(element.toLowerCase()  + " ");
+        }
     }
 }
