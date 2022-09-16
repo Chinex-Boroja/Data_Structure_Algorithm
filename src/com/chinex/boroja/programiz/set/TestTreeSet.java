@@ -17,6 +17,10 @@ public class TestTreeSet {
         set.add("Headies");
         set.add("Malomo");
 
+        for (String s: set) {
+            System.out.println(s.toUpperCase() + " ");
+        }
+
         TreeSet<String> treeSet = new TreeSet<>(set);
         System.out.println("Sorted tree set: " + treeSet);
 
