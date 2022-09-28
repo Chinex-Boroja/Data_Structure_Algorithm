@@ -27,6 +27,4 @@ public class MaxPairProduct {
         }
         System.out.println(getMaxPairwiseProduct(numbers));
     }
-
-
 }

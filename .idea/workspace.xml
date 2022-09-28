@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="abd1713d-c92a-43ca-9e67-6314df79102d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/coursera/MaxPairProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/programiz/set/CountKeyWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/programiz/set/SetListPerformanceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/programiz/set/TestKeyWords" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/programiz/maps/TestMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/programiz/set/TestTreeSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/programiz/set/TestTreeSet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chinex/boroja/programiz/set/TestTreeSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chinex/boroja/programiz/set/TestTreeSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chinex/boroja/coursera/MaxPairProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chinex/boroja/coursera/MaxPairProduct.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +68,7 @@
       <recent name="C:\Users\Chinex_Boroja\IdeaProjects\Data_Structure_Algorithm\src\com\chinex\boroja\programiz\set" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MaxPairProduct">
+  <component name="RunManager" selected="Application.TestMap">
     <configuration name="CountKeyWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.programiz.set.CountKeyWords" />
       <module name="DSAJava" />
@@ -112,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.programiz.set.TestHashSet" />
+    <configuration name="TestMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.programiz.maps.TestMap" />
       <module name="DSAJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chinex.boroja.programiz.set.*" />
+          <option name="PATTERN" value="com.chinex.boroja.programiz.maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,19 +135,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.TestMap" />
       <item itemvalue="Application.CountKeyWords" />
       <item itemvalue="Application.MaxPairProduct" />
       <item itemvalue="Application.SetListPerformanceTest" />
-      <item itemvalue="Application.TestHashSet" />
       <item itemvalue="Application.TestTreeSet" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestMap" />
         <item itemvalue="Application.MaxPairProduct" />
         <item itemvalue="Application.CountKeyWords" />
         <item itemvalue="Application.SetListPerformanceTest" />
         <item itemvalue="Application.TestTreeSet" />
-        <item itemvalue="Application.TestHashSet" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +201,9 @@
       <workItem from="1661762279141" duration="24620000" />
       <workItem from="1661933554935" duration="147000" />
       <workItem from="1663243772895" duration="475000" />
-      <workItem from="1663270302682" duration="10129000" />
+      <workItem from="1663270302682" duration="12147000" />
+      <workItem from="1663670254823" duration="1007000" />
+      <workItem from="1664355900578" duration="2750000" />
     </task>
     <servers />
   </component>
