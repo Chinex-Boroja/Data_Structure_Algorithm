@@ -1,0 +1,22 @@
+public static int gcd(int m, int n) {
+
+    int gcd = 1;
+
+    for (int k = 2; k <= m && k <= n; k++) {
+        if(m % k == 0 && n % k == 0)
+        gcd = k;
+    }
+    return gcd;
+}
+
+Assuming m >= n  T(n) = O(n)
+
+//Improved Algorithm
+Search from n downward
+for (int k = n; k >= 1; k--) {
+    if(m % k == 0 && n % k == 0) {
+        gcd = k;
+        break;
+    }
+}
+Worst case Time complexity is O(n)
