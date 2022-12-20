@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="abd1713d-c92a-43ca-9e67-6314df79102d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/problem_solving_in_java/DisplayTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/problem_solving_in_java/ShowCurrentTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/problem_solving_in_java/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/programiz/addtwonumbers/AddTwoNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/programiz/singlylist/SinglyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/programiz/singlylist/SinglyLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chinex/boroja/programiz/singlylist/SinglyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chinex/boroja/programiz/singlylist/SinglyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chinex/boroja/programiz/addtwonumbers/AddTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chinex/boroja/programiz/addtwonumbers/AddTwoNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,7 +216,7 @@
       <workItem from="1665483104260" duration="2482000" />
       <workItem from="1666088162696" duration="19000" />
       <workItem from="1668777913283" duration="21000" />
-      <workItem from="1671531589116" duration="849000" />
+      <workItem from="1671531589116" duration="1515000" />
     </task>
     <servers />
   </component>
