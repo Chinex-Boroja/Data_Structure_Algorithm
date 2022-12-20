@@ -46,11 +46,29 @@ public class SinglyLinkedList {
     /**
      * Insert Node at the beginning of a Singly Linked list in Java
      */
-    public ListNode insertNode() {
-        ListNode newNode = new ListNode(8);
+    public ListNode insertFirstNode(int value) {
+        ListNode newNode = new ListNode(value);
         newNode.next = head;
         return head = newNode;
     }
+
+    /**
+     * Insert Node at the end of a Singly Linked list in Java
+     */
+    public void insertLastNode(int value) {
+        ListNode newNode = new ListNode(value);
+
+        if (head == null) { //determine if singly list is empty
+            head = newNode;
+            return;
+        }
+        ListNode current = head;
+        while (null != current.next) { //transverse to the end of the singly linked list
+            current = current.next;
+        }
+        current.next = newNode;
+    }
+
 
     public static void main(String[] args) {
         SinglyLinkedList sll = new SinglyLinkedList();
@@ -59,13 +77,17 @@ public class SinglyLinkedList {
         ListNode third = new ListNode(9);
         ListNode fourth = new ListNode(11);
 
-        //Now we will connect them together to form a chain
+        // Now we will connect them together to form a chain
         sll.head.next = second; // 10 --> 1
         second.next = third; // 10 --> 1 --> 9
         third.next = fourth; // 10 --> 1 --> 9 --> 11 --> null
 
-        sll.printItems();
         System.out.println("The length of a singly linked list is: " + sll.findLength());
 
+        // Demonstrating how values are inserted in the beginning of a singly linked list;
+        sll.insertFirstNode(9);
+        sll.insertFirstNode(7);
+        sll.insertFirstNode(5);
+        sll.printItems();
     }
 }
