@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="abd1713d-c92a-43ca-9e67-6314df79102d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/freecodecamp/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/freecodecamp/Linear_Search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/problems/Addition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/freecodecamp/SearchRecursively.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/freecodecamp/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/freecodecamp/BinarySearch.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +73,7 @@
       <recent name="C:\Users\Chinex_Boroja\IdeaProjects\Data_Structure_Algorithm\src\com\chinex\boroja\programiz\set" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BinarySearch">
+  <component name="RunManager" selected="Application.SearchRecursively">
     <configuration name="Addition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.problems.Addition" />
       <module name="DSAJava" />
@@ -101,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Encoder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.problems.Encoder" />
+    <configuration name="Linear_Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.freecodecamp.Linear_Search" />
       <module name="DSAJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chinex.boroja.problems.*" />
+          <option name="PATTERN" value="com.chinex.boroja.freecodecamp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,8 +113,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Linear_Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.freecodecamp.Linear_Search" />
+    <configuration name="SearchRecursively" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.freecodecamp.SearchRecursively" />
       <module name="DSAJava" />
       <extension name="coverage">
         <pattern>
@@ -143,17 +142,17 @@
     <list>
       <item itemvalue="Application.Addition" />
       <item itemvalue="Application.BinarySearch" />
-      <item itemvalue="Application.Encoder" />
       <item itemvalue="Application.Linear_Search" />
+      <item itemvalue="Application.SearchRecursively" />
       <item itemvalue="Application.StringManipulation" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SearchRecursively" />
         <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.Linear_Search" />
         <item itemvalue="Application.Addition" />
         <item itemvalue="Application.StringManipulation" />
-        <item itemvalue="Application.Encoder" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +223,7 @@
       <workItem from="1672758414247" duration="3331000" />
       <workItem from="1673876008723" duration="1696000" />
       <workItem from="1675063724790" duration="7879000" />
-      <workItem from="1675238048597" duration="19653000" />
+      <workItem from="1675238048597" duration="26239000" />
     </task>
     <servers />
   </component>

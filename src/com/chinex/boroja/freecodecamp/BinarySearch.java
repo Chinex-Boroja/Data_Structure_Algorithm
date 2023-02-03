@@ -8,16 +8,21 @@ public class BinarySearch {
         while (firstPosition <= lastPosition) {
             int mid = (firstPosition + lastPosition) / 2;
 
+            //check if x is present at mid
             if (data[mid] == target) {
                 return mid;
             }
+            // if target greater, ignore left half
             else if (data[mid] < target) {
                 firstPosition = mid + 1;
             }
+            // if target is smaller, element is on the left side.
+            // so ignore right half
             else {
                 lastPosition = mid - 1;
             }
         }
+        // if we reach here, element is not present
         return -1;
     }
 
