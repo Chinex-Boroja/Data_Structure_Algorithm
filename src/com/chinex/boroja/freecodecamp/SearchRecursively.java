@@ -28,10 +28,10 @@ public class SearchRecursively {
 
     public static void main(String[] args) {
         int[] numbers = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
-        int result = recursive_binary_search(numbers, 12, 0, 9);
+        int result = recursive_binary_search(numbers, 12, 0, numbers.length - 1);
         verify(result);
 
-        result = recursive_binary_search(numbers, 6, 0, 9);
+        result = recursive_binary_search(numbers, 6, 0, numbers.length - 1);
         verify(result);
 
     }
@@ -49,7 +49,7 @@ public class SearchRecursively {
      * @return -1 if the element is not found
      */
     public static int recursive_binary_search(int[] data, int target, int start, int end) {
-       // edge case
+       // edge case and base condition
         if (start >= end) {
             return -1;
         }
