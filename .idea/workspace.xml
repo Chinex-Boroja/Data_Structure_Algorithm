@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="abd1713d-c92a-43ca-9e67-6314df79102d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/freecodecamp/ArraysOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/freecodecamp/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/problems/ComputeLoan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/problems/MonetaryUnits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/freecodecamp/ProcessingArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/freecodecamp/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/freecodecamp/BinarySearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/freecodecamp/SearchRecursively.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/freecodecamp/SearchRecursively.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chinex/boroja/freecodecamp/SearchRecursively.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chinex/boroja/freecodecamp/SearchRecursively.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/freecodecamp/ArraysOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/freecodecamp/ArraysOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/problems/MonetaryUnits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/problems/MonetaryUnits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chinex/boroja/freecodecamp/ArraysOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chinex/boroja/freecodecamp/ArraysOperation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,9 +75,9 @@
       <recent name="C:\Users\Chinex_Boroja\IdeaProjects\Data_Structure_Algorithm\src\com\chinex\boroja\programiz\set" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MonetaryUnits">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.freecodecamp.BinarySearch" />
+  <component name="RunManager" selected="Application.ProcessingArrays">
+    <configuration name="ArraysOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.freecodecamp.ArraysOperation" />
       <module name="DSAJava" />
       <extension name="coverage">
         <pattern>
@@ -131,8 +128,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchRecursively" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.freecodecamp.SearchRecursively" />
+    <configuration name="ProcessingArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.freecodecamp.ProcessingArrays" />
       <module name="DSAJava" />
       <extension name="coverage">
         <pattern>
@@ -145,19 +142,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.ProcessingArrays" />
+      <item itemvalue="Application.ArraysOperation" />
       <item itemvalue="Application.ComputeLoan" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.MonetaryUnits" />
-      <item itemvalue="Application.BinarySearch" />
-      <item itemvalue="Application.SearchRecursively" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProcessingArrays" />
+        <item itemvalue="Application.ArraysOperation" />
         <item itemvalue="Application.MonetaryUnits" />
         <item itemvalue="Application.ComputeLoan" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.SearchRecursively" />
-        <item itemvalue="Application.BinarySearch" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +227,8 @@
       <workItem from="1675063724790" duration="7879000" />
       <workItem from="1675238048597" duration="28861000" />
       <workItem from="1675694590698" duration="1203000" />
-      <workItem from="1675780878180" duration="14744000" />
+      <workItem from="1675780878180" duration="18206000" />
+      <workItem from="1675928070367" duration="12053000" />
     </task>
     <servers />
   </component>
