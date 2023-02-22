@@ -24,6 +24,7 @@ public class BinarySearch {
         }
         // if we reach here, element is not present
         return -1;
+//        return -firstPosition - 1;
     }
 
     public static void verify(int index) {

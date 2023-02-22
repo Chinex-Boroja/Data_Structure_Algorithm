@@ -37,6 +37,10 @@ public class ProcessingArrays {
 
         System.out.println(Arrays.toString(list2));
         reverseList1();
+
+        //Test Var Args
+        testVarArgs(34, 3, 3, 2, 58.3);
+        testVarArgs(new double[]{1, 3, 4, 7});
     }
 
     public static void findSmallestIndex() {
@@ -210,4 +214,17 @@ public class ProcessingArrays {
         System.out.println(Arrays.toString(result));
 
     }
-}
+
+    public static void testVarArgs(double... numbers) {
+        if (numbers.length == 0) {
+            System.out.println("No argument passed");
+        }
+
+        double result = numbers[0];
+        for (int i = 1; i < numbers.length ; i++) {
+            if (numbers[i] > result)
+                result = numbers[i];
+        }
+        System.out.println("The max value is " + result);
+    }
+ }

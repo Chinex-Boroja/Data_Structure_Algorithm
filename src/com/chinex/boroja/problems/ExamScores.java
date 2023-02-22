@@ -58,7 +58,7 @@ public class ExamScores {
             }
             double mean = (double) total / scores[i].length;
             System.out.println("Average score " + students[i] + ": " + mean);
-        }
+    }
 
         // The maximum score
         int maxScore = Integer.MIN_VALUE;

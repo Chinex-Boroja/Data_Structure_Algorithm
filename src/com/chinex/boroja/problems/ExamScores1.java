@@ -79,7 +79,8 @@ public class ExamScores1 {
                 }
             }
         }
-        System.out.println("Maximum Score: " + maxScore + " by Student " + (maxScoreStudent + 1) + " in Subject " + (maxScoreSubject + 1));
+        System.out.println("Maximum Score: " + maxScore + " by Student " + (maxScoreStudent + 1)
+                + " in Subject " + (maxScoreSubject + 1));
         System.out.println("Number of students scoring above the mean: " + aboveMean);
 
     }
