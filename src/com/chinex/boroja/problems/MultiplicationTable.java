@@ -1,5 +1,6 @@
 package com.chinex.boroja.problems;
 
+/** A Program to print a 9x multiplication table */
 public class MultiplicationTable {
     public static void main(String[] args) {
         System.out.println("            Multiplication Table");
@@ -21,18 +22,5 @@ public class MultiplicationTable {
 
         }
 
-        for (int i = 0; i < 10; i++) {
-            for (int j = 0; j < i; j++) {
-                System.out.println(i * j); // Executed 45 times
-            }
-        }
-
-        for (int i = 1; i < 5; i++) {
-            int j = 0;
-            while (j < i) {
-                System.out.print(j + " ");
-                j++;
-            }
-        }
     }
 }

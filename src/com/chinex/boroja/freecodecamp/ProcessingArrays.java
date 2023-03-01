@@ -8,41 +8,9 @@ public class ProcessingArrays {
     //Driver Method
     public static void main(String[] args) {
         System.out.println(checkMonth(12));
-
-        int x = 30;
-        int[] numbers = new int[x];
-        x = 60;
-        System.out.println(x);
-        System.out.println(numbers.length);
-
-        int[] myList;
-        myList = new int[10];
-        // Sometime later you want to assign a new array to myList
-        myList = new int[20];
-        System.out.println(myList.length);
-
-        findAverage();
-        selectCards();
-
-        int z = 1;
-        int[] y = new int[10];
-        y[0] = 9;
-        passByValue(z, y);
-
-        System.out.println("z is " + z);
-        System.out.println("y[0] is " + y[0]);
-
-        int[] list1 = {1, 2, 3, 4, 5, 6};
-        int[] list2 = reverseList(list1);
-
-        System.out.println(Arrays.toString(list2));
-        reverseList1();
-
-        //Test Var Args
-        testVarArgs(34, 3, 3, 2, 58.3);
-        testVarArgs(new double[]{1, 3, 4, 7});
     }
 
+    /** A method to find the smallest index of a number in an array */
     public static void findSmallestIndex() {
         double max = myList[0];
         int indexOfMax = 0;
@@ -55,6 +23,8 @@ public class ProcessingArrays {
         }
         System.out.println(indexOfMax);
     }
+
+    /** A method to find the largest number in an array */
     public static void findMax() {
         double max = myList[0];
         for (int i = 0; i < myList.length; i++) {
@@ -65,6 +35,7 @@ public class ProcessingArrays {
         System.out.println(max);
     }
 
+    /** A method to find the minimum number in an array */
     public static void findMin() {
         double min = myList[0];
         for (int i = 0; i < myList.length; i++) {
@@ -73,18 +44,22 @@ public class ProcessingArrays {
         System.out.println(min);
     }
 
+    /** A method to print all the elements in an array */
     public static void printArray() {
 
         for (int i = 0; i < myList.length; i++) {
             System.out.println(myList[i] + " ");
         }
     }
+
+    /** A method to initialize an array with random numbers from 1 to 100 */
     public static void initializeRandomValues() {
         for (int i = 0; i < myList.length; i++) {
             myList[i] = Math.random() * 100;
         }
     }
 
+    /** A method to Shuffle an array randomly */
     public static void shuffleRandomly() {
         for (int i = myList.length - 1; i > 0; i--) {
             // Generate an index j randomly with 0 <= j <= i
@@ -109,6 +84,7 @@ public class ProcessingArrays {
 
     }
 
+    /** A method to check the month of the year */
     public static String checkMonth(int monthNumber) {
         String[] months = {"January", "February", "March", "April", "May", "June", "July",
                 "August", "September", "October", "November", "December"};
@@ -176,6 +152,7 @@ public class ProcessingArrays {
 //        }
     }
 
+    /** A program to copy the content of arrays from one point to another */
     public static void copyContentOfArrays() {
         int[] sourceArray = {2, 3, 5, 7, 10};
         int[] targetArray = new int[sourceArray.length];
@@ -194,6 +171,7 @@ public class ProcessingArrays {
         numbers[0] = 5555;
     }
 
+    /** Reverse an array*/
     public static int[] reverseList(int[] list) {
         int[] result = new int[list.length];
 
@@ -215,6 +193,7 @@ public class ProcessingArrays {
 
     }
 
+    /** Variable args */
     public static void testVarArgs(double... numbers) {
         if (numbers.length == 0) {
             System.out.println("No argument passed");

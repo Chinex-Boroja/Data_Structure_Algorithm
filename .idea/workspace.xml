@@ -5,25 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="abd1713d-c92a-43ca-9e67-6314df79102d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/freecodecamp/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/freecodecamp/ArrayClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/freecodecamp/NullRemoval.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/freecodecamp/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/problems/GreatestCommonDivisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/problems/LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/problems/MultiplicationTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/problems/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/problems/RandomCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/problems/input" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/oop/LargeFactorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/oop/TV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/oop/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/oop/TestPassObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/oop/TestTV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/oop/WrongTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/oop/encapsulation/BMI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/oop/encapsulation/CircleWithPrivateDataFields.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/oop/encapsulation/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/oop/encapsulation/Loan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/oop/encapsulation/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/oop/encapsulation/TestBMI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/oop/encapsulation/TestCircleWithPrivateDataFields.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/oop/encapsulation/TestCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/oop/encapsulation/TestLoanClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/oop/encapsulation/TestStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/oop/encapsulation/stack/StackOfIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/oop/encapsulation/stack/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/oop/string/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/oop/string/ReplaceSplit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/oop/string/StringConstruction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/problems/ClosestPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/problems/GradeExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/problems/TwoDArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSAJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DSAJava.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/freecodecamp/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/freecodecamp/BinarySearch.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/freecodecamp/ProcessingArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/freecodecamp/ProcessingArrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/problems/ExamScores1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/problems/ExamScores1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chinex/boroja/freecodecamp/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chinex/boroja/freecodecamp/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/problems/GreatestCommonDivisor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/problems/GreatestCommonDivisor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/problems/MultiplicationTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/problems/MultiplicationTable.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/chinex/boroja/freecodecamp/ProcessingArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chinex/boroja/freecodecamp/ProcessingArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chinex/boroja/problems/ExamScores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chinex/boroja/problems/ExamScores.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chinex/boroja/problems/ExamScores1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chinex/boroja/problems/ExamScores1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chinex/boroja/problems/GreatestCommonDivisor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chinex/boroja/problems/GreatestCommonDivisor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chinex/boroja/problems/MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chinex/boroja/problems/MultiplicationTable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,13 +105,13 @@
       <recent name="C:\Users\Chinex_Boroja\IdeaProjects\Data_Structure_Algorithm\src\com\chinex\boroja\programiz\set" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestRandomCharacter">
-    <configuration name="GreatestCommonDivisor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.problems.GreatestCommonDivisor" />
+  <component name="RunManager" selected="Application.Builder">
+    <configuration name="Builder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.oop.string.Builder" />
       <module name="DSAJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chinex.boroja.problems.*" />
+          <option name="PATTERN" value="com.chinex.boroja.oop.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.problems.MultiplicationTable" />
+    <configuration name="LargeFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.oop.LargeFactorial" />
       <module name="DSAJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chinex.boroja.problems.*" />
+          <option name="PATTERN" value="com.chinex.boroja.oop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.problems.Palindrome" />
+    <configuration name="ReplaceSplit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.oop.string.ReplaceSplit" />
       <module name="DSAJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chinex.boroja.problems.*" />
+          <option name="PATTERN" value="com.chinex.boroja.oop.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestPassByValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.problems.TestPassByValue" />
+    <configuration name="StringConstruction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.oop.string.StringConstruction" />
       <module name="DSAJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chinex.boroja.problems.*" />
+          <option name="PATTERN" value="com.chinex.boroja.oop.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestRandomCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.problems.TestRandomCharacter" />
+    <configuration name="WrongTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.oop.WrongTest" />
       <module name="DSAJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chinex.boroja.problems.*" />
+          <option name="PATTERN" value="com.chinex.boroja.oop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,19 +172,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.GreatestCommonDivisor" />
-      <item itemvalue="Application.MultiplicationTable" />
-      <item itemvalue="Application.Palindrome" />
-      <item itemvalue="Application.TestPassByValue" />
-      <item itemvalue="Application.TestRandomCharacter" />
+      <item itemvalue="Application.Builder" />
+      <item itemvalue="Application.LargeFactorial" />
+      <item itemvalue="Application.ReplaceSplit" />
+      <item itemvalue="Application.StringConstruction" />
+      <item itemvalue="Application.WrongTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestRandomCharacter" />
-        <item itemvalue="Application.TestPassByValue" />
-        <item itemvalue="Application.Palindrome" />
-        <item itemvalue="Application.GreatestCommonDivisor" />
-        <item itemvalue="Application.MultiplicationTable" />
+        <item itemvalue="Application.Builder" />
+        <item itemvalue="Application.StringConstruction" />
+        <item itemvalue="Application.ReplaceSplit" />
+        <item itemvalue="Application.LargeFactorial" />
+        <item itemvalue="Application.WrongTest" />
       </list>
     </recent_temporary>
   </component>
@@ -249,7 +261,9 @@
       <workItem from="1675928070367" duration="32392000" />
       <workItem from="1676409638470" duration="15523000" />
       <workItem from="1676558760622" duration="182000" />
-      <workItem from="1676618498001" duration="22598000" />
+      <workItem from="1676618498001" duration="32953000" />
+      <workItem from="1677131949048" duration="8803000" />
+      <workItem from="1677421120227" duration="24822000" />
     </task>
     <servers />
   </component>

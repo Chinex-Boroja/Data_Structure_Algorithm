@@ -1,5 +1,6 @@
 package com.chinex.boroja.problems;
 
+/** A program to find the greatest common divisor among two numbers */
 public class GreatestCommonDivisor {
 
     public static void main(String[] args) {
