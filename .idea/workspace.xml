@@ -5,15 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="abd1713d-c92a-43ca-9e67-6314df79102d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/oop/inheritance/CircleObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/oop/inheritance/DynamicBinding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/oop/inheritance/GeometricObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/oop/inheritance/JustTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/oop/inheritance/PolymorphismDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/oop/inheritance/RectangleObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/oop/inheritance/TestObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/oop/string/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/oop/string/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/oop/arraylist/DistinctNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/oop/arraylist/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/oop/arraylist/TestArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/oop/arraylist/UsefulMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/oop/casting/CastingDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/quiz/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/quiz/Faculty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/quiz/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/quiz/Staff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/quiz/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/quiz/account/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/quiz/account/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/quiz/date/MyDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/quiz/date/MyDateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/quiz/triangle/TestTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/quiz/triangle/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,27 +90,17 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Chinex_Boroja\IdeaProjects\Data_Structure_Algorithm\src\com\chinex\boroja\programiz\set" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.chinex.boroja.quiz" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.com.chinex.boroja.oop.inheritance.Test">
-    <configuration name="C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.oop.inheritance.C" />
+  <component name="RunManager" selected="Application.com.chinex.boroja.quiz.account.Test">
+    <configuration name="MyDateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.quiz.date.MyDateTest" />
       <module name="DSAJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chinex.boroja.oop.inheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.oop.string.Palindrome" />
-      <module name="DSAJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.chinex.boroja.oop.string.*" />
+          <option name="PATTERN" value="com.chinex.boroja.quiz.date.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +109,11 @@
       </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.oop.string.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.quiz.Test" />
       <module name="DSAJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chinex.boroja.oop.string.*" />
+          <option name="PATTERN" value="com.chinex.boroja.quiz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.oop.inheritance.TestObjects" />
+    <configuration name="TestTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.quiz.triangle.TestTriangle" />
       <module name="DSAJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chinex.boroja.oop.inheritance.*" />
+          <option name="PATTERN" value="com.chinex.boroja.quiz.date.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +134,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.chinex.boroja.oop.inheritance.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.oop.inheritance.Test" />
+    <configuration name="UsefulMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.oop.arraylist.UsefulMethods" />
       <module name="DSAJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chinex.boroja.oop.inheritance.*" />
+          <option name="PATTERN" value="com.chinex.boroja.oop.arraylist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.chinex.boroja.quiz.account.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.quiz.account.Test" />
+      <module name="DSAJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chinex.boroja.quiz.account.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,19 +161,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.C" />
-      <item itemvalue="Application.TestObjects" />
-      <item itemvalue="Application.com.chinex.boroja.oop.inheritance.Test" />
-      <item itemvalue="Application.Palindrome" />
+      <item itemvalue="Application.MyDateTest" />
       <item itemvalue="Application.Test" />
+      <item itemvalue="Application.TestTriangle" />
+      <item itemvalue="Application.com.chinex.boroja.quiz.account.Test" />
+      <item itemvalue="Application.UsefulMethods" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.chinex.boroja.oop.inheritance.Test" />
-        <item itemvalue="Application.C" />
-        <item itemvalue="Application.TestObjects" />
+        <item itemvalue="Application.com.chinex.boroja.quiz.account.Test" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.MyDateTest" />
+        <item itemvalue="Application.TestTriangle" />
+        <item itemvalue="Application.UsefulMethods" />
       </list>
     </recent_temporary>
   </component>
@@ -243,7 +253,9 @@
       <workItem from="1676618498001" duration="32953000" />
       <workItem from="1677131949048" duration="8803000" />
       <workItem from="1677421120227" duration="27845000" />
-      <workItem from="1677776269512" duration="7373000" />
+      <workItem from="1677776269512" duration="8161000" />
+      <workItem from="1678132426899" duration="8004000" />
+      <workItem from="1678193156876" duration="21786000" />
     </task>
     <servers />
   </component>
