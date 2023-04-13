@@ -1,5 +1,6 @@
 package com.chinex.boroja.quiz.account;
 
+import java.util.ArrayList;
 import java.util.Date;
 
 /**
@@ -24,6 +25,7 @@ import java.util.Date;
  */
 public class Account {
 
+    private String name;
     private int id;
     private double balance;
 
@@ -31,17 +33,25 @@ public class Account {
 
     private Date dateCreated;
 
+    private ArrayList<Transaction> transactions;
+
     public Account() {
-        this(0, 0.0);
+        this(" ", 0, 0.0);
         annualInterestRate = 0.0;
         dateCreated = new Date();
     }
 
-    public Account(int id, double balance) {
+    public Account(String name, int id, double balance) {
+        this.name = name;
         this.id = id;
         this.balance = balance;
         annualInterestRate = 0.0;
+        this.transactions = new ArrayList<>();
         dateCreated = new Date();
+    }
+
+    public String getName() {
+        return name;
     }
 
     public int getId() {
@@ -85,9 +95,15 @@ public class Account {
             System.out.println("Invalid withdrawal amount");
         }
         balance = balance - amount;
+        transactions.add(new Transaction('W', amount, balance, "Withdrawal"));
     }
 
     public void deposit(double amount) {
         balance = balance + amount;
+        transactions.add(new Transaction('D', amount, balance, "Deposit"));
+    }
+
+    public ArrayList<Transaction> getTransactions() {
+        return transactions;
     }
 }
