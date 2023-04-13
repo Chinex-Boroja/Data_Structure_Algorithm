@@ -24,5 +24,15 @@ public class WriteData {
 
         // Close file
         output.close();
+
+        // Using try-with-resources
+        // Declare resources
+//        try( PrintWriter output1 = new PrintWriter(file)) {
+//            // Write formatted output to the file while using resources
+//            output1.print("John T Smith ");
+//            output1.println(90);
+//            output1.print("Eric K Jones ");
+//            output1.println(85);
+//        }
      }
 }

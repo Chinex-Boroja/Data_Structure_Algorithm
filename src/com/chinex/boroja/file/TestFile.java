@@ -5,7 +5,7 @@ import java.util.Date;
 
 public class TestFile {
     public static void main(String[] args) throws IOException {
-        java.io.File file = new java.io.File("./file/image/us.gif");
+        java.io.File file = new java.io.File("us.gif");
 
         System.out.println("Does it exist? " + file.exists());
         System.out.println("The file has " + file.length() + " bytes");
