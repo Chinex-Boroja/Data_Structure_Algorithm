@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="abd1713d-c92a-43ca-9e67-6314df79102d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/scores1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/file/ReadData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/file/ReadFileFromURL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/us.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/abstraclass/LargestNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/file/TestFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/file/TestFile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/file/WriteData.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/file/WriteData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chinex/boroja/file/TestFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chinex/boroja/file/TestFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chinex/boroja/file/WriteData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chinex/boroja/file/WriteData.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,25 +52,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "true",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Chinex_Boroja/IdeaProjects/Data_Structure_Algorithm",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Chinex_Boroja/IdeaProjects/Data_Structure_Algorithm&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Chinex_Boroja\IdeaProjects\Data_Structure_Algorithm" />
@@ -90,7 +83,20 @@
       <recent name="com.chinex.boroja.quiz" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReadFileFromURL">
+  <component name="RunManager" selected="Application.LargestNumbers">
+    <configuration name="LargestNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.abstraclass.LargestNumbers" />
+      <module name="DSAJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chinex.boroja.abstraclass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReadData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.file.ReadData" />
       <module name="DSAJava" />
@@ -130,13 +136,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestFileDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestFileDemo" />
-      <module name="DSAJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="WriteData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.file.WriteData" />
       <module name="DSAJava" />
@@ -151,19 +150,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.LargestNumbers" />
       <item itemvalue="Application.ReadData" />
       <item itemvalue="Application.ReadFileFromURL" />
       <item itemvalue="Application.WriteData" />
       <item itemvalue="Application.TestFile" />
-      <item itemvalue="Application.TestFileDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LargestNumbers" />
         <item itemvalue="Application.ReadFileFromURL" />
         <item itemvalue="Application.TestFile" />
         <item itemvalue="Application.ReadData" />
         <item itemvalue="Application.WriteData" />
-        <item itemvalue="Application.TestFileDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -253,7 +252,8 @@
       <workItem from="1680013602940" duration="1222000" />
       <workItem from="1681395331172" duration="2042000" />
       <workItem from="1681400767036" duration="385000" />
-      <workItem from="1681402008770" duration="3801000" />
+      <workItem from="1681402008770" duration="4323000" />
+      <workItem from="1681731496841" duration="3968000" />
     </task>
     <servers />
   </component>
