@@ -65,7 +65,7 @@ public class Generics {
         dogs.sort(animalComparator);
 
         /**Mammal mammal = new Mammal();
-        Animal animal = new Animal();
+        TestEdible animal = new TestEdible();
         Dog dog = new Dog();
         dogGenerics.doSomething(dog); */
     }

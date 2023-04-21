@@ -68,7 +68,7 @@ fun main(args: Array<String>) {
 
     /**val dogGenerics: Generics<Dog> = Generics<Dog>()
     val mammal = Mammal()
-    val animal = Animal()
+    val animal = TestEdible()
     val dog = Dog()
     dogGenerics.doSomething(dog)*/
 }

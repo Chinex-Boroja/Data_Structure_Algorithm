@@ -6,6 +6,7 @@ import java.util.ArrayList;
 
 public class LargestNumbers {
     public static void main(String[] args) {
+
         ArrayList<Number> list = new ArrayList<>();
         list.add(45);
         list.add(3445.53);
@@ -14,6 +15,7 @@ public class LargestNumbers {
         list.add(new BigDecimal("2.09488839920038848850"));
 
         System.out.println("The largest number is " + getLargestNumber(list));
+
     }
 
     public static Number getLargestNumber(ArrayList<Number> list) {
