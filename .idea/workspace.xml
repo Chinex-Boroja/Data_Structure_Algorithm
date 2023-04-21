@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="abd1713d-c92a-43ca-9e67-6314df79102d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/abstraclass/TestEdible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/abstraclass/HouseClone.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chinex/boroja/abstraclass/LargestNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chinex/boroja/abstraclass/LargestNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chinex/boroja/generics/inout/Generics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chinex/boroja/generics/inout/Generics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chinex/boroja/generics/kotlin/Generics.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chinex/boroja/generics/kotlin/Generics.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -256,7 +253,7 @@
       <workItem from="1681395331172" duration="2042000" />
       <workItem from="1681400767036" duration="385000" />
       <workItem from="1681402008770" duration="4323000" />
-      <workItem from="1681731496841" duration="6761000" />
+      <workItem from="1681731496841" duration="8824000" />
     </task>
     <servers />
   </component>
