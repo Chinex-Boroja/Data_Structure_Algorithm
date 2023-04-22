@@ -13,5 +13,14 @@ public class AnonymousInnerClasses {
         };
         bigfoot.makeNoise();
 
+        Runnable myAnonymousRunnable = new Runnable() {
+            @Override
+            public void run() {
+                System.out.println("I am an anonymous runnable");
+            }
+        };
+        myAnonymousRunnable.run();
+
+
     }
 }

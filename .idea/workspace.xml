@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="abd1713d-c92a-43ca-9e67-6314df79102d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/anonymous/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/anonymous/AnonymousInnerClasses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chinex/boroja/anonymous/AnonymousInnerClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chinex/boroja/anonymous/AnonymousInnerClasses.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +75,9 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.chinex.boroja.anonymous" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Chinex_Boroja\IdeaProjects\Data_Structure_Algorithm" />
     </key>
@@ -259,7 +260,7 @@
       <workItem from="1681400767036" duration="385000" />
       <workItem from="1681402008770" duration="4323000" />
       <workItem from="1681731496841" duration="19121000" />
-      <workItem from="1682195844097" duration="1671000" />
+      <workItem from="1682195844097" duration="2143000" />
     </task>
     <servers />
   </component>
