@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="abd1713d-c92a-43ca-9e67-6314df79102d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/lambdas/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/leetcode/easy/LongestPrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/leetcode/easy/RomanToInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/arrays/udemy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/operators/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chinex/boroja/lambdas/Lambdas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chinex/boroja/lambdas/Lambdas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chinex/boroja/lambdas/Printable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chinex/boroja/lambdas/Printable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/leetcode/easy/LongestPrefix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/leetcode/easy/LongestPrefix.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,27 +58,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Chinex_Boroja/IdeaProjects/Data_Structure_Algorithm&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Chinex_Boroja/IdeaProjects/wells-fargo-task-2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.chinex.boroja.anonymous" />
@@ -96,20 +94,7 @@
       <recent name="com.chinex.boroja.quiz" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LongestPrefix">
-    <configuration name="AnonymousInnerClasses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.anonymous.AnonymousInnerClasses" />
-      <module name="DSAJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.chinex.boroja.anonymous.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Lambdas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.lambdas.Lambdas" />
       <module name="DSAJava" />
@@ -137,11 +122,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.record.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.arrays.udemy.Main" />
       <module name="DSAJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chinex.boroja.record.*" />
+          <option name="PATTERN" value="com.chinex.boroja.arrays.udemy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,20 +147,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.chinex.boroja.operators.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.operators.Main" />
+      <module name="DSAJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chinex.boroja.operators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.com.chinex.boroja.operators.Main" />
       <item itemvalue="Application.LongestPrefix" />
       <item itemvalue="Application.RomanToInteger" />
-      <item itemvalue="Application.AnonymousInnerClasses" />
       <item itemvalue="Application.Lambdas" />
-      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.com.chinex.boroja.operators.Main" />
         <item itemvalue="Application.LongestPrefix" />
         <item itemvalue="Application.RomanToInteger" />
         <item itemvalue="Application.Lambdas" />
-        <item itemvalue="Application.AnonymousInnerClasses" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -272,7 +270,11 @@
       <workItem from="1684563286499" duration="1781000" />
       <workItem from="1684588813405" duration="281000" />
       <workItem from="1684770622699" duration="5561000" />
-      <workItem from="1685123253824" duration="598000" />
+      <workItem from="1685123253824" duration="748000" />
+      <workItem from="1685769039628" duration="590000" />
+      <workItem from="1687258578249" duration="3075000" />
+      <workItem from="1688045991434" duration="1010000" />
+      <workItem from="1688129769316" duration="3564000" />
     </task>
     <servers />
   </component>
