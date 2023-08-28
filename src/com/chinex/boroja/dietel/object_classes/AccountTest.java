@@ -8,7 +8,7 @@ public class AccountTest {
         Scanner input = new Scanner(System.in);
 
         // create an Account object and assign it to myAccount
-        Account myAccount = new Account();
+        Account myAccount = new Account("Onuzo Gamabiko");
         // display initial value of name (null)
         System.out.printf("Initial name is: %s%n%n", myAccount.getName());
 
