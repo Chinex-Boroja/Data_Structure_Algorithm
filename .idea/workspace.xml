@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="abd1713d-c92a-43ca-9e67-6314df79102d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/programiz/hashset/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/programiz/hashset/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/programiz/hashset/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/programiz/largest/LargestNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_streak/arrays/DVD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_streak/arrays/DVDImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/META-INF/DSAJava.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSAJava/META-INF/DSAJava.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/generics/kotlin/Generics.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/generics/kotlin/Generics.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/generics/kotlin/GenericsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/generics/kotlin/GenericsKt.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,13 +97,13 @@
       <recent name="com.chinex.boroja.quiz" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Driver">
-    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode_streak.Driver" />
+  <component name="RunManager" selected="Application.DVDImpl">
+    <configuration name="DVDImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode_streak.arrays.DVDImpl" />
       <module name="DSAJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode_streak.*" />
+          <option name="PATTERN" value="leetcode_streak.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.programiz.largest.LargestNumber" />
+    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode_streak.Driver" />
       <module name="DSAJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chinex.boroja.programiz.largest.*" />
+          <option name="PATTERN" value="leetcode_streak.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,19 +164,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.DVDImpl" />
       <item itemvalue="Application.Driver" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Solution" />
       <item itemvalue="Application.Solution2" />
-      <item itemvalue="Application.LargestNumber" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DVDImpl" />
         <item itemvalue="Application.Driver" />
         <item itemvalue="Application.Solution2" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.LargestNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -299,6 +293,7 @@
       <workItem from="1694686924003" duration="1885000" />
       <workItem from="1697483715507" duration="9014000" />
       <workItem from="1698149145520" duration="52000" />
+      <workItem from="1699891097993" duration="2211000" />
     </task>
     <servers />
   </component>
