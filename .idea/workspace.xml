@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="abd1713d-c92a-43ca-9e67-6314df79102d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/programiz/hashset/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/programiz/hashset/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/programiz/hashset/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/programiz/largest/LargestNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chinex/boroja/dietel/object_classes/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chinex/boroja/dietel/object_classes/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chinex/boroja/dietel/object_classes/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chinex/boroja/dietel/object_classes/AccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/META-INF/DSAJava.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSAJava/META-INF/DSAJava.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/generics/kotlin/Generics.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/generics/kotlin/Generics.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/generics/kotlin/GenericsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSAJava/com/chinex/boroja/generics/kotlin/GenericsKt.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +25,7 @@
       <list>
         <option value="Record" />
         <option value="Interface" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -49,6 +56,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="1vPaaAQGvtBh11Oz89pebCoKRMQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -93,13 +103,13 @@
       <recent name="com.chinex.boroja.quiz" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AccountTest">
-    <configuration name="AccountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.dietel.object_classes.AccountTest" />
+  <component name="RunManager" selected="Application.Driver">
+    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode_streak.Driver" />
       <module name="DSAJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chinex.boroja.dietel.object_classes.*" />
+          <option name="PATTERN" value="leetcode_streak.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Addition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.dietel.Addition" />
+    <configuration name="LargestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.programiz.largest.LargestNumber" />
       <module name="DSAJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chinex.boroja.dietel.*" />
+          <option name="PATTERN" value="com.chinex.boroja.programiz.largest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Comparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.dietel.Comparison" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.programiz.hashset.Main" />
       <module name="DSAJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chinex.boroja.dietel.*" />
+          <option name="PATTERN" value="com.chinex.boroja.programiz.hashset.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProblemSets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.dietel.ProblemSets" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.programiz.hashset.Solution" />
       <module name="DSAJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chinex.boroja.dietel.*" />
+          <option name="PATTERN" value="com.chinex.boroja.programiz.hashset.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.dietel.Test" />
+    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.programiz.hashset.Solution2" />
       <module name="DSAJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chinex.boroja.dietel.*" />
+          <option name="PATTERN" value="com.chinex.boroja.programiz.hashset.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,19 +170,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.AccountTest" />
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.ProblemSets" />
-      <item itemvalue="Application.Addition" />
-      <item itemvalue="Application.Comparison" />
+      <item itemvalue="Application.Driver" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Solution2" />
+      <item itemvalue="Application.LargestNumber" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AccountTest" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.ProblemSets" />
-        <item itemvalue="Application.Comparison" />
-        <item itemvalue="Application.Addition" />
+        <item itemvalue="Application.Driver" />
+        <item itemvalue="Application.Solution2" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.LargestNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -285,6 +295,10 @@
       <workItem from="1690976077897" duration="1175000" />
       <workItem from="1691000123833" duration="5072000" />
       <workItem from="1693215379965" duration="4773000" />
+      <workItem from="1694128301620" duration="1717000" />
+      <workItem from="1694686924003" duration="1885000" />
+      <workItem from="1697483715507" duration="9014000" />
+      <workItem from="1698149145520" duration="52000" />
     </task>
     <servers />
   </component>
