@@ -22,5 +22,18 @@ public class DVDImpl {
         System.out.println(dvdCollection[0]);
         System.out.println(dvdCollection[14]);
         System.out.println(Arrays.toString(dvdCollection));
+
+        int[] array = new int[6];
+
+        int length = 0;
+
+        for (int i = 0; i < 3; i++) {
+            array[i] = i + 1;
+            length++;
+        }
+
+        System.out.println("The length of the array is: " + length);
+        System.out.println("Array capacity is: " + array.length);
+        System.out.println("Array's content: " + Arrays.toString(array));
     }
 }
