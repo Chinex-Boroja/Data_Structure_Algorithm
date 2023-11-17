@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="abd1713d-c92a-43ca-9e67-6314df79102d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode_streak/arrays/SquareSortedArray.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_streak/arrays/ArrayInsertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_streak/linked_list/SinglyLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/META-INF/DSAJava.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSAJava/META-INF/DSAJava.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/leetcode_streak/arrays/CountEvenDigitsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSAJava/leetcode_streak/arrays/CountEvenDigitsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSAJava/leetcode_streak/arrays/SquareSortedArrayKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSAJava/leetcode_streak/arrays/SquareSortedArrayKt.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +21,8 @@
         <option value="Record" />
         <option value="Interface" />
         <option value="package-info" />
-        <option value="Class" />
         <option value="Kotlin File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -99,9 +99,9 @@
       <recent name="com.chinex.boroja.quiz" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.SquareSortedArrayKt">
-    <configuration name="DVDImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode_streak.arrays.DVDImpl" />
+  <component name="RunManager" selected="Application.SinglyLinkedList">
+    <configuration name="ArrayInsertions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode_streak.arrays.ArrayInsertions" />
       <module name="DSAJava" />
       <extension name="coverage">
         <pattern>
@@ -113,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WriteReadWithLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode_streak.arrays.WriteReadWithLoop" />
+    <configuration name="SinglyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode_streak.linked_list.SinglyLinkedList" />
       <module name="DSAJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode_streak.arrays.*" />
+          <option name="PATTERN" value="leetcode_streak.linked_list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,19 +148,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DVDImpl" />
-      <item itemvalue="Application.WriteReadWithLoop" />
+      <item itemvalue="Application.ArrayInsertions" />
+      <item itemvalue="Application.SinglyLinkedList" />
       <item itemvalue="Kotlin.ConsecutiveOnesKt" />
       <item itemvalue="Kotlin.CountEvenDigitsKt" />
       <item itemvalue="Kotlin.SquareSortedArrayKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SinglyLinkedList" />
+        <item itemvalue="Application.ArrayInsertions" />
         <item itemvalue="Kotlin.SquareSortedArrayKt" />
         <item itemvalue="Kotlin.CountEvenDigitsKt" />
         <item itemvalue="Kotlin.ConsecutiveOnesKt" />
-        <item itemvalue="Application.DVDImpl" />
-        <item itemvalue="Application.WriteReadWithLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -277,7 +277,7 @@
       <workItem from="1694686924003" duration="1885000" />
       <workItem from="1697483715507" duration="9014000" />
       <workItem from="1698149145520" duration="52000" />
-      <workItem from="1699891097993" duration="10730000" />
+      <workItem from="1699891097993" duration="16309000" />
     </task>
     <servers />
   </component>
