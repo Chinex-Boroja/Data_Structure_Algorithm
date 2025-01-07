@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="abd1713d-c92a-43ca-9e67-6314df79102d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/dietel/object_classes/SingletonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/dietel/LogicalOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chinex/boroja/dietel/MaximumFinder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +81,9 @@
     "Application.ForCounter.executor": "Run",
     "Application.Interest.executor": "Run",
     "Application.LetterGrades.executor": "Run",
+    "Application.LogicalOperators.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MaximumFinder.executor": "Run",
     "Application.SingletonDemo.executor": "Run",
     "Application.Sum.executor": "Run",
     "Application.WhileCounter.executor": "Run",
@@ -121,20 +124,7 @@
       <recent name="com.chinex.boroja.quiz" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SingletonDemo">
-    <configuration name="DoWhileCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.dietel.DoWhileCounter" />
-      <module name="DSAJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.chinex.boroja.dietel.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MaximumFinder">
     <configuration name="Interest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.dietel.Interest" />
       <module name="DSAJava" />
@@ -161,6 +151,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LogicalOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.dietel.LogicalOperators" />
+      <module name="DSAJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chinex.boroja.dietel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaximumFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.dietel.MaximumFinder" />
+      <module name="DSAJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chinex.boroja.dietel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SingletonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.dietel.object_classes.SingletonDemo" />
       <module name="DSAJava" />
@@ -174,33 +190,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chinex.boroja.dietel.Sum" />
-      <module name="DSAJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.chinex.boroja.dietel.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.DoWhileCounter" />
       <item itemvalue="Application.LetterGrades" />
+      <item itemvalue="Application.LogicalOperators" />
+      <item itemvalue="Application.MaximumFinder" />
       <item itemvalue="Application.SingletonDemo" />
       <item itemvalue="Application.Interest" />
-      <item itemvalue="Application.Sum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaximumFinder" />
+        <item itemvalue="Application.LogicalOperators" />
         <item itemvalue="Application.SingletonDemo" />
         <item itemvalue="Application.LetterGrades" />
         <item itemvalue="Application.Interest" />
-        <item itemvalue="Application.DoWhileCounter" />
-        <item itemvalue="Application.Sum" />
       </list>
     </recent_temporary>
   </component>
@@ -331,7 +334,7 @@
       <workItem from="1732875273569" duration="1809000" />
       <workItem from="1732877517530" duration="41000" />
       <workItem from="1732877581140" duration="23010000" />
-      <workItem from="1735564081642" duration="27889000" />
+      <workItem from="1735564081642" duration="40117000" />
     </task>
     <servers />
   </component>
