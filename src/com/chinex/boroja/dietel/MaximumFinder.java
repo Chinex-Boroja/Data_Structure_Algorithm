@@ -30,5 +30,7 @@ public class MaximumFinder {
         }
 
         return maximumNumber;
+
+//        return (Math.max(firstNumber, Math.max(secondNumber, thirdNumber)));
     }
 }
